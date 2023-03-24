@@ -1,0 +1,23 @@
+/* Write your code here. */
+.heading {
+  text-align: center;
+  color: white;
+}
+.img {
+  display: flex;
+  justify-content: center;
+}
+.bg {
+  background-color: black;
+  height: 100vh;
+}
+.each {
+  width: 60px;
+  height: 60px;
+}
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
